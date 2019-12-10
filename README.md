@@ -1,2 +1,2 @@
 # pf-barmy-vue
-Просто проект Vue с версткой и плагинами
+Just a example of Vue plugin + markup
